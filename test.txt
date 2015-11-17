@@ -1,8 +1,0 @@
-Ere does a Git pull.
-Fay does a Git pull.
-Ere edits line 32 of question.txt.
-Fay deletes line 31 of question.txt.
-Ere does a Git commit & Git push.
-Fay does a Git commit & Git push. Fay's Git push fails.
-Fay does a Git pull & TortoiseGit resolves the conflicts automatically.
-Fay does a Git push again and succeeds.
