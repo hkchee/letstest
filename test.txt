@@ -1,0 +1,9 @@
+
+    Ere does a Git pull.
+    Fay does a Git pull.
+    Fay Git deletes puzzle.txt
+    Fay does a Git commit & Git push.
+    Ere edits puzzle.txt.
+    Ere does a Git commit & Git push. Ere's Git push fails.
+    Ere does a Git pull & TortoiseGit resolves the conflicts automatically.
+    Ere does a Git push again and succeeds.
