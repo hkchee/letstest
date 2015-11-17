@@ -6,7 +6,7 @@ Fay deletes line 31 of question.txt.
 Ere does a Git commit & Git push.
 Fay does a Git commit & Git push. Fay's Git push fails.
 Fay does a Git pull & TortoiseGit resolves the conflicts automatically.
-Fay does a Git push again and succeeds.
+Fay does a Git push again and succeeds. addition to this...
 =======
 
     Ere does a Git pull.
