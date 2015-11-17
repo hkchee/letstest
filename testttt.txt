@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-Ere does a Git pull.
+haahahEre does a Git pull.
 Fay does a Git pull.
 Ere edits line 32 of question.txt.
 Fay deletes line 31 of question.txt.
